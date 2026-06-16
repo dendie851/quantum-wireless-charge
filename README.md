@@ -10,17 +10,23 @@ Welcome to the future of energy transmission.
 
 ## Table of Contents
 
-1. [Overview](#overview)
-2. [Applications](#applications)
-   - [Autonomous Vehicles & Robotics](#1-autonomous-vehicles--robotics)
-   - [IoT & Edge Devices](#2-iot--edge-devices)
-   - [Implantable Medical Devices & Brain-Computer Interfaces](#3-implantable-medical-devices--brain-computer-interfaces)
-   - [Hazardous & Sensitive Environments](#4-hazardous--sensitive-environments)
-3. [Architecture](#architecture)
-4. [How It Works](#how-it-works)
-5. [Prototype & Evidence](#prototype--evidence)
-6. [Getting Started](#getting-started)
-7. [License](#license)
+- [Quantum Wireless Charge](#quantum-wireless-charge)
+  - [Table of Contents](#table-of-contents)
+  - [Overview](#overview)
+  - [Applications](#applications)
+    - [1. Autonomous Vehicles \& Robotics](#1-autonomous-vehicles--robotics)
+    - [2. IoT \& Edge Devices](#2-iot--edge-devices)
+    - [3. Implantable Medical Devices \& Brain-Computer Interfaces](#3-implantable-medical-devices--brain-computer-interfaces)
+    - [4. Hazardous \& Sensitive Environments](#4-hazardous--sensitive-environments)
+  - [Architecture](#architecture)
+    - [Layer 1: Power Source \& Conditioning](#layer-1-power-source--conditioning)
+    - [Layer 2: Quantum Resonance Transmitter](#layer-2-quantum-resonance-transmitter)
+    - [Layer 3: Energy Propagation Medium](#layer-3-energy-propagation-medium)
+    - [Layer 4: Receiver \& Power Management](#layer-4-receiver--power-management)
+    - [How It Works](#how-it-works)
+  - [Prototype \& Evidence](#prototype--evidence)
+    - [What You See in the Evidence](#what-you-see-in-the-evidence)
+    - [Key Results from the Prototype](#key-results-from-the-prototype)
 
 ---
 
@@ -153,42 +159,6 @@ The screenshot above (`ss/prototype.jpg`) shows our working prototype demonstrat
 - ✅ Power delivery sufficient to operate connected loads
 - ✅ Stable operation without frequency drift
 - ✅ Safe energy levels for human-interactive environments
-
----
-
-## Getting Started
-
-```bash
-# Clone the repository
-git clone https://github.com/dendie851/quantum-wireless-charge.git
-
-# Navigate to the project
-cd quantum-wireless-charge
-
-# Explore the design
-open design/arsitekur.png
-
-# View prototype evidence
-open ss/prototype.jpg
-```
-
-### Project Structure
-
-```
-quantum-wireless-charge/
-├── README.md                 # This file
-├── design/
-│   ├── arsitekur.png         # System architecture diagram
-│   └── design.drawio         # Editable architecture source file
-└── ss/
-    └── prototype.jpg         # Prototype demonstration evidence
-```
-
----
-
-## License
-
-This project is licensed under the MIT License — see the LICENSE file for details.
 
 ---
 
